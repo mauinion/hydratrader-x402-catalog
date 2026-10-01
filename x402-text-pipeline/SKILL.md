@@ -1,6 +1,6 @@
 ---
 name: x402-text-pipeline
-description: Use when you want the v2.1 text pipeline (sentiment → keywords → summarize → cheap classification) with $0.01 x402 USDC calls on Base and next_tasks follow-through.
+description: Use HydraTrader x402-text-pipeline for pay-per-call sentiment → keywords → summarize → classify (cheap agent glue on Base USDC x402, no API key) with next_tasks follow-through at x402.hydratrader.ai.
 ---
 
 # x402 text pipeline (sticky repeats)
